@@ -17,7 +17,7 @@ export const header = () => {
         {/* Logo */}
         <div className="flex items-center animate-in fade-in slide-in-from-left-12 duration-800">
           <h1 className="text-3xl font-black text-white uppercase tracking-widest cursor-pointer hover:drop-shadow-lg hover:scale-105 transition-all duration-300">
-            Q-TECH
+            <span a href="">Q-TECH</span>
           </h1>
         </div>
 
